@@ -1,0 +1,24 @@
+.
+├── resource-cn
+│   ├── linux-mpu6050驱动.doc       https://www.linuxidc.com/Linux/2017-03/142198.htm
+│   ├── linux spi驱动框架分析.doc       https://www.cnblogs.com/rongpmcu/p/7662706.html
+│   ├── Nokia5110屏幕驱动安装.doc       https://yangxuan8282.gitbooks.io/rpi_cache/chapter26.html
+│   ├── 穿戴式智能计步器设计.docx       https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=DZKK201603047&v=MjcxMzJySTlCWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVI3cWZadVptRnk3aFY3eklJVGZBWmJHNEg5Zk0=
+│   ├── 基于MEMS的精确计步算法的设计与实现.docx     https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=CGQJ201805024&v=MDcxMjNVUjdxZlp1Wm1GeTdoVmI3TEppcmFaTEc0SDluTXFvOUhZSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckM=
+│   ├── 基于加速度传感器的自适应采样计步器设计.docx     https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=ZDHJ201905027&v=MTI0NDlEaDFUM3FUcldNMUZyQ1VSN3FmWnVabUZ5SGtVci9JUHluRFpMRzRIOWpNcW85SFk0UjhlWDFMdXhZUzc=
+│   ├── 基于三轴加速度传感器的计步算法.doc      https://blog.csdn.net/Dancer__Sky/article/details/81504778
+│   └── 使用Arduino和加速度计自制计步器 .doc      https://www.yiboard.com/thread-1326-1-1.html
+├── resource-en
+│   ├── 10.树莓派镜像安装.doc       https://www.raspberrypi.org/documentation/installation/installing-images/
+│   ├── 1.analog公司计步算法.doc     https://www.analog.com/en/analog-dialogue/articles/pedometer-design-3-axis-digital-acceler.html#
+│   ├── 2.can总线简介.doc   https://www.allaboutcircuits.com/technical-articles/introduction-to-can-controller-area-network/
+│   ├── 3.esp8266的WIFI和UDP.doc    https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html
+│   ├── 4.I2C总线协议3.1.1-3.1.6节.doc   https://www.nxp.com/docs/en/user-guide/UM10204.pdf   
+│   ├── 5.Linux-Manual-socket.doc       http://man7.org/linux/man-pages/man2/socket.2.html
+│   ├── 6.matplotlib库文档.doc      https://matplotlib.org/api/_as_gen/matplotlib.animation.FuncAnimation.html#matplotlib.animation.FuncAnimation
+│   ├── 7.MPU60X0-overview.doc      https://www.invensense.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf
+│   ├── 8.树莓派构建内核镜像.doc       https://www.raspberrypi.org/documentation/linux/kernel/building.md
+│   └── 9.SPI接口介绍.doc       https://www.analog.com/en/analog-dialogue/articles/introduction-to-spi-interface.html
+└── 文章链接直达.txt
+
+2 directories, 20 files
